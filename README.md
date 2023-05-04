@@ -1,4 +1,15 @@
-### Hi there 👋
+<h1 align="center">Amr Abdelhameed</h1>
+<h3 align="center">Student At Faculty of Engineering </br> Alexandria University </br> Computer & Systems Department (CSED)</h3>
+
+<p>
+Junior software engineer | Experience with:
+<ul>
+<li>Python,C ,C++, JAVA, HTML, CSS, JavaScript,Scala, Easy68k assemply language</li>
+<li>Linux, Ubuntu</li>
+<li>OOP, Data Structure, Algorithms, Artificial Intelligence</li>
+<li>Problem solving</li>
+</ul>
+</p>
 
 <!--
 **amrabdelhameed1001/amrabdelhameed1001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
