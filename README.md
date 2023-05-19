@@ -1,5 +1,5 @@
 <h1 align="center">Amr Abdelhameed</h1>
-<h3 align="center">Student At Faculty of Engineering </br> Alexandria University </br> Computer & Systems Department (CSED)</h3>
+<h3 align="center">Student at Faculty of Engineering </br> Alexandria University </br> Computer & Systems Department (CSED)</h3>
 
 <p>
 Junior software engineer | Experience with:
