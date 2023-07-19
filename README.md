@@ -1,5 +1,6 @@
 <h1 align="center">Amr Abdelhameed</h1>
 <h3 align="center">Student at Faculty of Engineering </br> Alexandria University </br> Computer & Systems Department (CSED)</h3>
+<img align="center" alt="Data Analysis" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fanalytic&psig=AOvVaw1D8qDD_hPykPh55c71ipkQ&ust=1689895314690000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCICg3-f0m4ADFQAAAAAdAAAAABAn">
 
 <p>
 Junior software engineer | Experience with:
