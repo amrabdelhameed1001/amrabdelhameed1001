@@ -1,6 +1,10 @@
+<div style="display: flex; justify-content: center;">
+  <img alt="Data Analysis" width="500" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHEyamNnamxwY3JmdmVxYnlrNGd6amY2enB4cG5tdWYyeG45ZnJ0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif">
+</div>
+
+
 <h1 align="center">Amr Abdelhameed</h1>
 <h3 align="center">Student at Faculty of Engineering </br> Alexandria University </br> Computer & Systems Department (CSED)</h3>
-<img align="center" alt="Data Analysis" src="https://giphy.com/gifs/cartoon-character-2d-3oKIPEqDGUULpEU0aQ">
 
 <p>
 Junior software engineer | Experience with:
