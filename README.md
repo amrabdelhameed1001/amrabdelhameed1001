@@ -6,6 +6,7 @@ Junior software engineer | Experience with:
 <ul>
 <li>Data Analysis, Excel , Google Sheets , Google Colab</li>
 <li>Python,C ,C++, JAVA, HTML, CSS, JavaScript,Scala, Easy68k assemply language</li>
+<li>Numpy, Pandas and Matplotlib</li>
 <li>OOP, Data Structure, Algorithms</li>
 <li>Artificial Intelligence</li>
 <li>Problem solving</li>
