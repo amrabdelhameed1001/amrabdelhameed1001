@@ -14,6 +14,8 @@ Junior software engineer | Experience with:
 </ul>
 </p>
 
+<h3 align="left">Tools:</h3>
+
 <img align="center" src="https://github.com/amrabdelhameed1001/amrabdelhameed1001/assets/85768785/c4952295-d00e-4064-be4f-d40cc75e4f29" alt="amruthpillai" height="30" width="40" />
 <img align="center" src="https://github.com/amrabdelhameed1001/amrabdelhameed1001/assets/85768785/f3c35a65-aa3d-41e4-a387-ebbd563f85c0" alt="amruthpillai" height="30" width="40" />
 <img align="center" src="https://github.com/amrabdelhameed1001/amrabdelhameed1001/assets/85768785/f2d119b8-0ab0-4691-9850-f93796c120a8" alt="amruthpillai" height="30" width="40" />
