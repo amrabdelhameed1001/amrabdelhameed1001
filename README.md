@@ -12,7 +12,9 @@ Data Analyst & Software engineer | Experience with:
 <p>
 <ul>
 <li>Data Analysis, Excel, MS PowerBI, Google Sheets, Google Studio, Google Colab</li>
-<li>Python,C ,C++, JAVA, HTML, CSS, JavaScript,Scala, Easy68k assemply language</li>
+<li>Programming Languages: Python,C ,C++, JAVA</li>
+<li>Analyist Language: M, R, DAX, VBA</li>
+<li>Web Languages: HTML, CSS, JavaScript ,Scala, Easy68k assemply language</li>
 <li>Numpy, Pandas and Matplotlib</li>
 <li>OOP, Data Structure, Algorithms</li>
 <li>Artificial Intelligence</li>
