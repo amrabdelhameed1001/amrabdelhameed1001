@@ -1,16 +1,17 @@
 
 
 <h1 align="center">Amr Abdelhameed</h1>
-<h3 align="center">Student at Faculty of Engineering </br> Alexandria University </br> Computer & Systems Department (CSED)</h3>
+<h3 align="center">Faculty of Engineering </br> Alexandria University </br> Computer & Systems Department (CSED)</h3>
+<h2 align="center">works at Moasherat (for Business services)</h2>
 
 <img alt="Data Analysis" width="400" align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHEyamNnamxwY3JmdmVxYnlrNGd6amY2enB4cG5tdWYyeG45ZnJ0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif">
 
 <h3>
-Junior software engineer | Experience with:
+Data Analyst & Software engineer | Experience with:
 </h3>
 <p>
 <ul>
-<li>Data Analysis, Excel , Google Sheets , Google Colab</li>
+<li>Data Analysis, Excel, MS PowerBI, Google Sheets, Google Studio, Google Colab</li>
 <li>Python,C ,C++, JAVA, HTML, CSS, JavaScript,Scala, Easy68k assemply language</li>
 <li>Numpy, Pandas and Matplotlib</li>
 <li>OOP, Data Structure, Algorithms</li>
