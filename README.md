@@ -1,3 +1,4 @@
+
 <h1 align="center">Amr Abdelhameed</h1>
 <h2 align="center">Data Analyst</h2>
 <h3 align="center">Faculty of Engineering </br> Alexandria University </br> Computer & Systems Department (CSED)</h3>
@@ -5,22 +6,34 @@
 
 <img alt="Data Analysis" width="400" align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHEyamNnamxwY3JmdmVxYnlrNGd6amY2enB4cG5tdWYyeG45ZnJ0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif">
 
+<div align="left">
+  <h3>
+    Worked with
+  </h3>
+  <p>
+      <h6>وزارة الحج والعمرة السعودية</h6>
+      <h6>جمعية العثيم الخيرية</h6>
+      <h6>الجمعية السعودية للمحافظة على التراث</h6>
+      <h6>مجلس الجمعيات الأهلية السعودية</h6>
+      <h6>مجموعة سعود</h6>
+  </p>
+</div>
 
 <h3>
 Data Analyst & Software engineer | Experience with:
 </h3>
 <p>
-<ul>
-<li>Programming Languages: Python,C ,C++, JAVA</li>
-<li>Data Analysis tools: Excel, MS PowerBI, Google Sheets, Google Studio, Google Colab</li>
-<li>Analyist Language: M, R, DAX, VBA</li>
-<li>Web Languages: HTML, CSS, JavaScript ,Scala, Easy68k assemply language</li>
-<li>Numpy, Pandas and Matplotlib</li>
-<li>OOP, Data Structure, Algorithms</li>
-<li>Artificial Intelligence</li>
-<li>Problem solving</li>
-<li>Linux, Ubuntu</li>
-</ul>
+  <ul>
+    <li>Programming Languages: Python,C ,C++, JAVA</li>
+    <li>Data Analysis tools: Excel, MS PowerBI, Google Sheets, Google Studio, Google Colab</li>
+    <li>Analyist Language: M, R, DAX, VBA</li>
+    <li>Web Languages: HTML, CSS, JavaScript ,Scala, Easy68k assemply language</li>
+    <li>Numpy, Pandas and Matplotlib</li>
+    <li>OOP, Data Structure, Algorithms</li>
+    <li>Artificial Intelligence</li>
+    <li>Problem solving</li>
+    <li>Linux, Ubuntu</li>
+  </ul>
 </p>
 
 <h3 align="left">Tools:</h3>
