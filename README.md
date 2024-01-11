@@ -6,7 +6,7 @@
 <img alt="Data Analysis" width="400" align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHEyamNnamxwY3JmdmVxYnlrNGd6amY2enB4cG5tdWYyeG45ZnJ0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif">
 
 <h3 align="left">Worked with:</h3>
-  ![Othaim](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+  ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
 <h3>
 Data Analyst & Software engineer | Experience with:
