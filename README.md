@@ -1,4 +1,6 @@
 
+
+
 <h1 align="center">Amr Abdelhameed</h1>
 <h2 align="center">Data Analyst</h2>
 <h3 align="center">Faculty of Engineering </br> Alexandria University </br> Computer & Systems Department (CSED)</h3>
@@ -23,6 +25,44 @@
 <h3>
 Data Analyst & Software engineer | Experience with:
 </h3>
+
+<table>
+
+  <tr>
+    <td>Programming skills</td>
+    <td>OOP, Data Structure, Algorithms, Problem solving</td>
+  </tr>
+
+  <tr>
+    <td>Data Analysis tools</td>
+    <td>Excel, MS PowerBI, Google Sheets, Google Studio, Google Colab</td>
+  </tr>
+  
+  <tr>
+    <td>Programming Languages</td>
+    <td>Python,C ,C++, JAVA</td>
+  </tr>  
+  
+
+  <tr>
+    <td>Analyist Languages</td>
+    <td>M, R, DAX, VBA, Power query formulas</td>
+  </tr>
+
+  <tr>
+    <td>Web Languages</td>
+    <td>HTML, CSS, JavaScript</td>
+  </tr>
+
+  <tr>
+    <td>Other Languages</td>
+    <td>Scala, Easy68k assemply language</td>
+  </tr>
+
+
+</table>
+
+<!--
 <p>
   <ul>
     <li>Programming Languages: Python,C ,C++, JAVA</li>
@@ -36,6 +76,9 @@ Data Analyst & Software engineer | Experience with:
     <li>Linux, Ubuntu</li>
   </ul>
 </p>
+
+-->
+
 
 <h3 align="left">Tools:</h3>
 <div align="center">
