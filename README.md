@@ -35,7 +35,7 @@ Data Analyst & Software engineer | Experience with:
 
   <tr>
     <td>Data Analysis tools</td>
-    <td>MS PowerBI, Tableau, Google Colab, Google Studio, Excel, Google Sheets</td>
+    <td>MS PowerBI, Tableau, Google Colab, Google Studio, Excel, Google Sheets, MS data mart, MS data flow</td>
   </tr>
   
   <tr>
@@ -50,7 +50,7 @@ Data Analyst & Software engineer | Experience with:
 
   <tr>
     <td>Microsoft Tools</td>
-    <td>MS fabric, MS SQL, MS Access, MS power builder, MS 365</td>
+    <td>MS fabric, MS SQL, MS Access, MS power builder, MS 365, MS data flow, MS data mart</td>
   </tr>
 
   <tr>
