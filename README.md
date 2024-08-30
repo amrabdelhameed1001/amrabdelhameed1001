@@ -45,7 +45,7 @@ Data Analyst & Software engineer | Experience with:
   
   <tr>
     <td>Analyist Languages</td>
-    <td>SQL, M, R, DAX, VBA, Power query formulas</td>
+    <td>SQL, M (Power query formulas), R, DAX, VBA</td>
   </tr>
 
   <tr>
