@@ -1,7 +1,7 @@
 
 
 
-<h1 align="center">Amr Abdelhameed</h1>
+<h1 align="center">Amr Abdelhamid</h1>
 <h2 align="center">Data Analyst</h2>
 <h3 align="center">Faculty of Engineering </br> Alexandria University </br> Computer & Systems Department (CSED)</h3>
 <h4 align="center">works at Moasherat (for Business services)</h4>
