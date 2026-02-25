@@ -60,7 +60,7 @@ Data Analyst & Software engineer | Experience with:
 
   <tr>
     <td>Other Languages</td>
-    <td>Scala, Easy68k assemply language</td>
+    <td>Scala, Easy68k and 8086 assemply language</td>
   </tr>
 
 
